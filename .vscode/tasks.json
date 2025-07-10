@@ -8,9 +8,9 @@
             "args": [
                 "-I",
                 "./eigen",
-                "6june.cpp",
+                "steadystate.cpp",
                 "-o",
-                "6june.exe"
+                "steadystate.exe"
             ],
             "group": {
                 "kind": "build",
